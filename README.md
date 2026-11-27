@@ -19,23 +19,17 @@ Wars, escapes, spies, heists. True history, 60 seconds. A new Short daily, for a
 
 ## Projects
 
-The Shorts made with this workflow — watch them right here on this page, no links needed. Each folder also has the approved script and a description of the video.
+The Shorts made with this workflow. Each folder holds the finished video, the approved script, and a description. The first Short is shown at the top of this page as a reference sample.
 
 ### Robert Smalls — "He Wore the Captain's Hat and Took a Confederate Ship"
-
-https://github.com/user-attachments/assets/2de9111e-b60c-4490-b0ba-3653cb48af0a
 
 68.6 s · live 24 Nov 2026. Before dawn on May 13, 1862, Robert Smalls — a 23-year-old enslaved crewman — took the Confederate steamer Planter out of Charleston Harbor, past Fort Sumter, and delivered it to the Union blockade. Sixteen people escaped to freedom that morning. [Full project](projects/robert-smalls/) · also on [YouTube](https://youtube.com/shorts/ygtEc3lQHyc).
 
 ### Georg Gaertner — "The POW Who Hid in Plain Sight for 40 Years"
 
-https://github.com/user-attachments/assets/030d7a59-4e69-47c6-8fba-65f093f26d65
-
 75.8 s · live 25 Nov 2026. After the war ended in 1945, German prisoner Georg Gaertner escaped from Camp Deming, New Mexico — and hid in plain sight in America for 40 years as Dennis Whiles. Of 2,222 German prisoners who tried to escape American camps, he was the only one never recaptured. [Full project](projects/georg-gaertner/) · also on [YouTube](https://youtube.com/shorts/aYAMgieNl40).
 
 ### Napoleon — "Why Napoleon Wouldn't Stop"
-
-https://github.com/user-attachments/assets/ec7fe538-6b8d-4036-8bf5-4c52fda149a8
 
 78.0 s · scheduled 27 Nov 2026, 11:00 PM IST. Napoleon was offered peace and his crown in November 1813 — France could keep its natural frontiers, including Belgium. He stalled, expecting to win. By the time his foreign minister said yes on December 2, the offer was gone. [Full project](projects/napoleon/) · also on [YouTube](https://youtube.com/shorts/3dTTLQKcmcI).
 
@@ -90,7 +84,7 @@ The professional, reusable core of the repo — copy a template per video and fi
 
 ## Credit
 
-The animation method is inspired by [Grow With Kaz's Claude 2D animation workflow](https://youtu.be/bxfmJLSHLcg). Everything in this repo is written in our own words — no third-party prompts or assets are reproduced here.
+The animation method is inspired by [Grow With Kaz's Claude 2D animation workflow](https://youtu.be/bxfmJLSHLCg). Everything in this repo is written in our own words — no third-party prompts or assets are reproduced here.
 
 ## License
 
