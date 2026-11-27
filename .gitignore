@@ -1,0 +1,18 @@
+# Video, audio and image files stay out of this repo — it's the workflow, not the media.
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.m4a
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Credentials and local state
+.env
+*.pem
+*.key
+credentials*
+__pycache__/
+.DS_Store
