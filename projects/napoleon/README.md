@@ -1,7 +1,5 @@
 # Napoleon — "Why Napoleon Wouldn't Stop"
 
-![Napoleon thumbnail](thumbnail.png)
-
 **Video:** [`video.mp4`](video.mp4) — the finished Short, in this folder
 **Also on YouTube:** https://youtube.com/shorts/3dTTLQKcmcI
 **Length:** 78.0 seconds · 7 scenes · **Scheduled:** 27 November 2026, 11:00 PM IST
