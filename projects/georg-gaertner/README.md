@@ -1,7 +1,5 @@
 # Georg Gaertner — "The POW Who Hid in Plain Sight for 40 Years"
 
-![Georg Gaertner thumbnail](thumbnail.png)
-
 **Video:** [`video.mp4`](video.mp4) — the finished Short, in this folder
 **Also on YouTube:** https://youtube.com/shorts/aYAMgieNl40
 **Length:** 75.8 seconds · 7 scenes · **Published:** 25 November 2026, 11:00 PM IST
@@ -30,5 +28,5 @@ Sources: Smithsonian; AP; Los Angeles Times.
 
 ## Files
 
-- `video.mp4` — the finished 75.8-second Short (1080x1920).
+- `video.mp4` — the finished 75.8-second Short (1080x1920), re-encoded to 11.5 MB so it fits GitHub's 25 MB web-upload limit; the full-quality master is `kelrix-day1-gaertner-final-v2.mp4`.
 - `script.md` — the approved 194-word script and 7-scene storyboard.
