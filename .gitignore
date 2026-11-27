@@ -1,13 +1,19 @@
-# Video, audio and image files stay out of this repo — it's the workflow, not the media.
+# Video, audio and image files stay out of this repo — except the finished
+# Shorts in projects/, which are the point of the showcase.
 *.mp4
+!projects/**/*.mp4
 *.mov
 *.mp3
 *.wav
 *.m4a
 *.png
+!projects/**/*.png
 *.jpg
+!projects/**/*.jpg
 *.jpeg
+!projects/**/*.jpeg
 *.webp
+!projects/**/*.webp
 
 # Credentials and local state
 .env

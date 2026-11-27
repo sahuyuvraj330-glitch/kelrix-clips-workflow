@@ -2,7 +2,7 @@
 
 The full workflow behind the [Kelrix Clips](https://www.youtube.com/@Kelrix-n1s) YouTube Shorts channel: one true-history story a day, told in 60 seconds of flat 2D cutout animation.
 
-This repo documents the process — and the Shorts it has made. The videos themselves live on YouTube; the [projects folder](projects/) holds each video's approved script and description. No video files live here — it's the pipeline, the rules, and the helpers we actually use, so anyone can run the same loop.
+This repo documents the process — and the Shorts it has made. The [projects folder](projects/) holds each video — the finished Short, its approved script, and its description. The videos are also on YouTube. No other video files live here — it's the pipeline, the rules, and the helpers we actually use, so anyone can run the same loop.
 
 ## The channel
 
@@ -13,11 +13,31 @@ Wars, escapes, spies, heists. True history, 60 seconds. A new Short daily, for a
 
 ## Projects
 
-The Shorts made with this workflow — each folder has the approved script and a description of the video:
+The Shorts made with this workflow — watch them right here on this page, no links needed. Each folder also has the approved script and a description of the video.
 
-- [Robert Smalls — "He Wore the Captain's Hat and Took a Confederate Ship"](projects/robert-smalls/) — 68.6 s, live 24 Nov 2026. [Watch on YouTube](https://youtube.com/shorts/ygtEc3lQHyc)
-- [Georg Gaertner — "The POW Who Hid in Plain Sight for 40 Years"](projects/georg-gaertner/) — 75.8 s, live 25 Nov 2026. [Watch on YouTube](https://youtube.com/shorts/aYAMgieNl40)
-- [Napoleon — "Why Napoleon Wouldn't Stop"](projects/napoleon/) — 78.0 s, scheduled 27 Nov 2026, 11:00 PM IST. [Watch on YouTube](https://youtube.com/shorts/3dTTLQKcmcI)
+### Robert Smalls — "He Wore the Captain's Hat and Took a Confederate Ship"
+
+![Robert Smalls thumbnail](projects/robert-smalls/thumbnail.png)
+
+![Robert Smalls — the Short](projects/robert-smalls/video.mp4)
+
+68.6 s · live 24 Nov 2026. Before dawn on May 13, 1862, Robert Smalls — a 23-year-old enslaved crewman — took the Confederate steamer Planter out of Charleston Harbor, past Fort Sumter, and delivered it to the Union blockade. Sixteen people escaped to freedom that morning. [Full project](projects/robert-smalls/) · also on [YouTube](https://youtube.com/shorts/ygtEc3lQHyc).
+
+### Georg Gaertner — "The POW Who Hid in Plain Sight for 40 Years"
+
+![Georg Gaertner thumbnail](projects/georg-gaertner/thumbnail.png)
+
+![Georg Gaertner — the Short](projects/georg-gaertner/video.mp4)
+
+75.8 s · live 25 Nov 2026. After the war ended in 1945, German prisoner Georg Gaertner escaped from Camp Deming, New Mexico — and hid in plain sight in America for 40 years as Dennis Whiles. Of 2,222 German prisoners who tried to escape American camps, he was the only one never recaptured. [Full project](projects/georg-gaertner/) · also on [YouTube](https://youtube.com/shorts/aYAMgieNl40).
+
+### Napoleon — "Why Napoleon Wouldn't Stop"
+
+![Napoleon thumbnail](projects/napoleon/thumbnail.png)
+
+![Napoleon — the Short](projects/napoleon/video.mp4)
+
+78.0 s · scheduled 27 Nov 2026, 11:00 PM IST. Napoleon was offered peace and his crown in November 1813 — France could keep its natural frontiers, including Belgium. He stalled, expecting to win. By the time his foreign minister said yes on December 2, the offer was gone. [Full project](projects/napoleon/) · also on [YouTube](https://youtube.com/shorts/3dTTLQKcmcI).
 
 Full list, including what's in production: [projects/README.md](projects/README.md).
 
