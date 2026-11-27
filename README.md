@@ -2,7 +2,7 @@
 
 The full workflow behind the [Kelrix Clips](https://www.youtube.com/@Kelrix-n1s) YouTube Shorts channel: one true-history story a day, told in 60 seconds of flat 2D cutout animation.
 
-This repo documents the process, not the videos. No video files live here — it's the pipeline, the rules, and the helpers we actually use, so anyone can run the same loop.
+This repo documents the process — and the Shorts it has made. The videos themselves live on YouTube; the [projects folder](projects/) holds each video's approved script and description. No video files live here — it's the pipeline, the rules, and the helpers we actually use, so anyone can run the same loop.
 
 ## The channel
 
@@ -10,6 +10,16 @@ Wars, escapes, spies, heists. True history, 60 seconds. A new Short daily, for a
 
 - YouTube: https://www.youtube.com/@Kelrix-n1s
 - Instagram / Threads / Facebook: **Kelrix Clips** (`@kelrixclips`)
+
+## Projects
+
+The Shorts made with this workflow — each folder has the approved script and a description of the video:
+
+- [Robert Smalls — "He Wore the Captain's Hat and Took a Confederate Ship"](projects/robert-smalls/) — 68.6 s, live 24 Nov 2026. [Watch on YouTube](https://youtube.com/shorts/ygtEc3lQHyc)
+- [Georg Gaertner — "The POW Who Hid in Plain Sight for 40 Years"](projects/georg-gaertner/) — 75.8 s, live 25 Nov 2026. [Watch on YouTube](https://youtube.com/shorts/aYAMgieNl40)
+- [Napoleon — "Why Napoleon Wouldn't Stop"](projects/napoleon/) — 78.0 s, scheduled 27 Nov 2026, 11:00 PM IST. [Watch on YouTube](https://youtube.com/shorts/3dTTLQKcmcI)
+
+Full list, including what's in production: [projects/README.md](projects/README.md).
 
 ## The daily pipeline
 
