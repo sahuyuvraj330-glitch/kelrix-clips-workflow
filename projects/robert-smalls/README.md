@@ -1,6 +1,7 @@
 # Robert Smalls — "He Wore the Captain's Hat and Took a Confederate Ship"
 
-**Watch:** https://youtube.com/shorts/ygtEc3lQHyc
+**Video:** [`video.mp4`](video.mp4) — the finished Short, in this folder
+**Also on YouTube:** https://youtube.com/shorts/ygtEc3lQHyc
 **Length:** 68.6 seconds · 7 scenes · **Published:** 24 November 2026, 11:30 PM IST
 **Thumbnail text:** HE STOLE A SHIP
 
@@ -26,4 +27,5 @@ Sources: National Park Service; HistoryNet; Biographical Directory of the U.S. C
 
 ## Files
 
+- `video.mp4` — the finished 68.6-second Short (1080x1920).
 - `script.md` — the approved 198-word script and 7-scene storyboard.
