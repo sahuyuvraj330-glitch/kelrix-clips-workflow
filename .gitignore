@@ -7,13 +7,9 @@
 *.wav
 *.m4a
 *.png
-!projects/**/*.png
 *.jpg
-!projects/**/*.jpg
 *.jpeg
-!projects/**/*.jpeg
 *.webp
-!projects/**/*.webp
 
 # Credentials and local state
 .env
