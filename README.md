@@ -4,6 +4,12 @@ The full workflow behind the [Kelrix Clips](https://www.youtube.com/@Kelrix-n1s)
 
 This repo documents the process — and the Shorts it has made. The [projects folder](projects/) holds each video — the finished Short, its approved script, and its description. The videos are also on YouTube. No other video files live here — it's the pipeline, the rules, and the helpers we actually use, so anyone can run the same loop.
 
+## Where it started
+
+Our first Short — the video that started Kelrix Clips. Before dawn on May 13, 1862, Robert Smalls, a 23-year-old enslaved crewman, took the Confederate steamer Planter out of Charleston Harbor and sailed 16 people to freedom.
+
+![Robert Smalls — our first Short](projects/robert-smalls/video.mp4)
+
 ## The channel
 
 Wars, escapes, spies, heists. True history, 60 seconds. A new Short daily, for a US audience.
